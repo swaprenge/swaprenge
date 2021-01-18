@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Swapnil Renge</h1>
+<h1>Hi 👋, I'm Swapnil Renge</h1>
 
 - 🔭 I’m currently working with [Geospoc](https://geospoc.com/)
 
