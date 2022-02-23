@@ -1,14 +1,11 @@
 <h1>Hi 👋, I'm Swapnil Renge</h1>
 <h3>A passionate frontend developer from India</h3>
 
-- 🔭 I’m currently working with [Geospoc](https://geospoc.com/)
+- 🔭 I’m currently working with [Globant](https://www.globant.com/)
 
-- 🌱 I’m currently learning **VueJs, NuxtJs, React and GO**
-
-- 💬 Ask me about **VueJS and GO**
+- 🌱 I’m currently learning **VueJs, ReactJS and GO**
 
 - 📫 How to reach me **swaprenge2222@gmail.com**
-
 
 
 <h3 align="left">Languages and Tools:</h3>
