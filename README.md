@@ -21,11 +21,7 @@
 
 
 
-<a href="https://github.com/swaprenge?tab=repositories"><img align="center" src="https://github-readme-stats.vercel.app/api?username=swaprenge&show_icons=true&locale=en" alt="swaprenge" /></a>
-
-
-<a href="https://github.com/swaprenge?tab=repositories"><img align="center" width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=swaprenge&layout=compact&langs_count=6&theme=algolia" alt="Top Languages"/></a>
+<a href="https://github.com/swaprenge?tab=repositories"><img align="center" src="https://github-readme-stats.vercel.app/api?username=swaprenge&show_icons=true&locale=en" alt="swaprenge" /></a>  <a href="https://github.com/swaprenge?tab=repositories"><img align="center" width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=swaprenge&layout=compact&langs_count=6&theme=algolia" alt="Top Languages"/></a>
 
 
 📌 Reach out to me: [<img align="center" height="40" src="https://img.icons8.com/color/144/000000/linkedin.png"/>](https://www.linkedin.com/in/swapnil-renge-7a3625113/)
-
